@@ -12,15 +12,15 @@ Rev 2.0
 8X8 LED Matrix
 
         A B C D E F G H
-      -----------------
-  Y0  | O O O O O O O O 
-  Y1  | O O O O O O O O
-  Y2  | O O O O O O O O
-  Y3  | O O O O O O O O
-  Y4  | O O O O O O O O
-  Y5  | O O O O O O O O
-  Y6  | O O O O O O O O
-  Y7  | O O O O O O O O
+
+  Y0    O O O O O O O O 
+  Y1    O O O O O O O O
+  Y2    O O O O O O O O
+  Y3    O O O O O O O O
+  Y4    O O O O O O O O
+  Y5    O O O O O O O O
+  Y6    O O O O O O O O
+  Y7    O O O O O O O O
 
 PIN
 
