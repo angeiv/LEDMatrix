@@ -1,4 +1,3 @@
-
 //gcc x.c -o x -lwiringPi
 
 #include <stdio.h>
@@ -28,7 +27,7 @@ int main()
         pinMode(2 , OUTPUT);//GPIO27,y6
         digitalWrite(2,1);
 
-        initState();//imit
+        initState();//init
 
         for(;;)
         {
