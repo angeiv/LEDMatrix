@@ -112,4 +112,4 @@ void light(int led)
         }
 
 }
-pi@raspberrypi ~/LEDMatrix $
+
