@@ -1,32 +1,33 @@
 #LEDMatrix
-=========
 
 Raspberry Pi LED Matrix test with wiringPi in C program language.
 
 #Raspberry Pi
-=========
+
 Rev 2.0
 
 #LED Matrix
-=========
+
 8X8 LED Matrix
 
-   。   A B C D E F G H
- |Y0    O O O O O O O O 
- |Y1    O O O O O O O O
-  Y2    O O O O O O O O
-  Y3    O O O O O O O O
-  Y4    O O O O O O O O
-  Y5    O O O O O O O O
-  Y6    O O O O O O O O
-  Y7    O O O O O O O O
+   A B C D E F G H
+Y0 O O O O O O O O 
+Y1 O O O O O O O O
+Y2 O O O O O O O O
+Y3 O O O O O O O O
+Y4 O O O O O O O O
+Y5 O O O O O O O O
+Y6 O O O O O O O O
+Y7 O O O O O O O O
 
 PIN
 
-	H	G	1	A	3	F	D	0
-	灰1	黄	灰2	红	绿	白1	紫1	蓝1
-	黑1	黑2	橙	紫	空	蓝2	棕	白
-	4	6	B	C	7	E	5	2
+	H   G   1   A   3   F   D   0
+	灰1 黄  灰2 红  绿  白1 紫1 蓝1
+	黑1 黑2 橙  紫  空  蓝2 棕  白
+	4   6   B   C   7   E   5   2
+	
+	//no more pins for 7
 
 #Connect
 ==========
